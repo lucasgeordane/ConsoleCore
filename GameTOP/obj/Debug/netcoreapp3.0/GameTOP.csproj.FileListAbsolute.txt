@@ -1,0 +1,16 @@
+C:\Users\lucas\Desktop\Study\Fullstack\CONSOLECORE\GameTOP\bin\Debug\netcoreapp3.0\GameTOP.exe
+C:\Users\lucas\Desktop\Study\Fullstack\CONSOLECORE\GameTOP\bin\Debug\netcoreapp3.0\GameTOP.deps.json
+C:\Users\lucas\Desktop\Study\Fullstack\CONSOLECORE\GameTOP\bin\Debug\netcoreapp3.0\GameTOP.runtimeconfig.json
+C:\Users\lucas\Desktop\Study\Fullstack\CONSOLECORE\GameTOP\bin\Debug\netcoreapp3.0\GameTOP.runtimeconfig.dev.json
+C:\Users\lucas\Desktop\Study\Fullstack\CONSOLECORE\GameTOP\bin\Debug\netcoreapp3.0\GameTOP.dll
+C:\Users\lucas\Desktop\Study\Fullstack\CONSOLECORE\GameTOP\bin\Debug\netcoreapp3.0\GameTOP.pdb
+C:\Users\lucas\Desktop\Study\Fullstack\CONSOLECORE\GameTOP\obj\Debug\netcoreapp3.0\GameTOP.csprojAssemblyReference.cache
+C:\Users\lucas\Desktop\Study\Fullstack\CONSOLECORE\GameTOP\obj\Debug\netcoreapp3.0\GameTOP.AssemblyInfoInputs.cache
+C:\Users\lucas\Desktop\Study\Fullstack\CONSOLECORE\GameTOP\obj\Debug\netcoreapp3.0\GameTOP.AssemblyInfo.cs
+C:\Users\lucas\Desktop\Study\Fullstack\CONSOLECORE\GameTOP\obj\Debug\netcoreapp3.0\GameTOP.dll
+C:\Users\lucas\Desktop\Study\Fullstack\CONSOLECORE\GameTOP\obj\Debug\netcoreapp3.0\GameTOP.pdb
+C:\Users\lucas\Desktop\Study\Fullstack\CONSOLECORE\GameTOP\bin\Debug\netcoreapp3.0\GameTOP.interface.dll
+C:\Users\lucas\Desktop\Study\Fullstack\CONSOLECORE\GameTOP\bin\Debug\netcoreapp3.0\GameTOP.lib.dll
+C:\Users\lucas\Desktop\Study\Fullstack\CONSOLECORE\GameTOP\bin\Debug\netcoreapp3.0\GameTOP.lib.pdb
+C:\Users\lucas\Desktop\Study\Fullstack\CONSOLECORE\GameTOP\bin\Debug\netcoreapp3.0\GameTOP.interface.pdb
+C:\Users\lucas\Desktop\Study\Fullstack\CONSOLECORE\GameTOP\obj\Debug\netcoreapp3.0\GameTOP.csproj.CopyComplete

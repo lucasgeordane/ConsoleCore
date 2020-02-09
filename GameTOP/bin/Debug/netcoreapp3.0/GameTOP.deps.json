@@ -1,0 +1,50 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.0": {
+      "GameTOP/1.0.0": {
+        "dependencies": {
+          "GameTOP.lib": "1.0.0",
+          "GameTop.Interface": "1.0.0"
+        },
+        "runtime": {
+          "GameTOP.dll": {}
+        }
+      },
+      "GameTop.Interface/1.0.0": {
+        "runtime": {
+          "GameTop.Interface.dll": {}
+        }
+      },
+      "GameTOP.lib/1.0.0": {
+        "dependencies": {
+          "GameTop.Interface": "1.0.0"
+        },
+        "runtime": {
+          "GameTOP.lib.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "GameTOP/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "GameTop.Interface/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "GameTOP.lib/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

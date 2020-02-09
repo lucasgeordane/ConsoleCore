@@ -1,0 +1,11 @@
+C:\Users\lucas\Desktop\Study\Fullstack\CONSOLECORE\GameTOP.Lib\bin\Debug\netstandard2.0\GameTOP.lib.deps.json
+C:\Users\lucas\Desktop\Study\Fullstack\CONSOLECORE\GameTOP.Lib\bin\Debug\netstandard2.0\GameTOP.lib.dll
+C:\Users\lucas\Desktop\Study\Fullstack\CONSOLECORE\GameTOP.Lib\bin\Debug\netstandard2.0\GameTOP.lib.pdb
+C:\Users\lucas\Desktop\Study\Fullstack\CONSOLECORE\GameTOP.Lib\bin\Debug\netstandard2.0\GameTOP.interface.dll
+C:\Users\lucas\Desktop\Study\Fullstack\CONSOLECORE\GameTOP.Lib\bin\Debug\netstandard2.0\GameTOP.interface.pdb
+C:\Users\lucas\Desktop\Study\Fullstack\CONSOLECORE\GameTOP.Lib\obj\Debug\netstandard2.0\GameTOP.lib.csprojAssemblyReference.cache
+C:\Users\lucas\Desktop\Study\Fullstack\CONSOLECORE\GameTOP.Lib\obj\Debug\netstandard2.0\GameTOP.lib.AssemblyInfoInputs.cache
+C:\Users\lucas\Desktop\Study\Fullstack\CONSOLECORE\GameTOP.Lib\obj\Debug\netstandard2.0\GameTOP.lib.AssemblyInfo.cs
+C:\Users\lucas\Desktop\Study\Fullstack\CONSOLECORE\GameTOP.Lib\obj\Debug\netstandard2.0\GameTOP.lib.csproj.CopyComplete
+C:\Users\lucas\Desktop\Study\Fullstack\CONSOLECORE\GameTOP.Lib\obj\Debug\netstandard2.0\GameTOP.lib.dll
+C:\Users\lucas\Desktop\Study\Fullstack\CONSOLECORE\GameTOP.Lib\obj\Debug\netstandard2.0\GameTOP.lib.pdb
