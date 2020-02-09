@@ -59,12 +59,12 @@
         }
       }
     },
-    "C:\\Users\\lucas\\OneDrive\\Documentos\\Study\\Fullstack\\CONSOLECORE\\GameTOP.Lib\\GameTOP.Lib.csproj": {
+    "C:\\Users\\lucas\\OneDrive\\Documentos\\Study\\Fullstack\\CONSOLECORE\\GameTOP.Lib\\GameTOP.lib.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\lucas\\OneDrive\\Documentos\\Study\\Fullstack\\CONSOLECORE\\GameTOP.Lib\\GameTOP.Lib.csproj",
-        "projectName": "GameTOP.Lib",
-        "projectPath": "C:\\Users\\lucas\\OneDrive\\Documentos\\Study\\Fullstack\\CONSOLECORE\\GameTOP.Lib\\GameTOP.Lib.csproj",
+        "projectUniqueName": "C:\\Users\\lucas\\OneDrive\\Documentos\\Study\\Fullstack\\CONSOLECORE\\GameTOP.Lib\\GameTOP.lib.csproj",
+        "projectName": "GameTOP.lib",
+        "projectPath": "C:\\Users\\lucas\\OneDrive\\Documentos\\Study\\Fullstack\\CONSOLECORE\\GameTOP.Lib\\GameTOP.lib.csproj",
         "packagesPath": "C:\\Users\\lucas\\.nuget\\packages\\",
         "outputPath": "C:\\Users\\lucas\\OneDrive\\Documentos\\Study\\Fullstack\\CONSOLECORE\\GameTOP.Lib\\obj\\",
         "projectStyle": "PackageReference",
@@ -144,8 +144,8 @@
               "C:\\Users\\lucas\\OneDrive\\Documentos\\Study\\Fullstack\\CONSOLECORE\\GameTop.Interface\\GameTop.Interface.csproj": {
                 "projectPath": "C:\\Users\\lucas\\OneDrive\\Documentos\\Study\\Fullstack\\CONSOLECORE\\GameTop.Interface\\GameTop.Interface.csproj"
               },
-              "C:\\Users\\lucas\\OneDrive\\Documentos\\Study\\Fullstack\\CONSOLECORE\\GameTOP.Lib\\GameTOP.Lib.csproj": {
-                "projectPath": "C:\\Users\\lucas\\OneDrive\\Documentos\\Study\\Fullstack\\CONSOLECORE\\GameTOP.Lib\\GameTOP.Lib.csproj"
+              "C:\\Users\\lucas\\OneDrive\\Documentos\\Study\\Fullstack\\CONSOLECORE\\GameTOP.Lib\\GameTOP.lib.csproj": {
+                "projectPath": "C:\\Users\\lucas\\OneDrive\\Documentos\\Study\\Fullstack\\CONSOLECORE\\GameTOP.Lib\\GameTOP.lib.csproj"
               }
             }
           }

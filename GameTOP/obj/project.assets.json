@@ -12,17 +12,17 @@
           "bin/placeholder/GameTop.Interface.dll": {}
         }
       },
-      "GameTOP.Lib/1.0.0": {
+      "GameTOP.lib/1.0.0": {
         "type": "project",
         "framework": ".NETStandard,Version=v2.0",
         "dependencies": {
           "GameTop.Interface": "1.0.0"
         },
         "compile": {
-          "bin/placeholder/GameTOP.Lib.dll": {}
+          "bin/placeholder/GameTOP.lib.dll": {}
         },
         "runtime": {
-          "bin/placeholder/GameTOP.Lib.dll": {}
+          "bin/placeholder/GameTOP.lib.dll": {}
         }
       }
     }
@@ -33,15 +33,15 @@
       "path": "../GameTop.Interface/GameTop.Interface.csproj",
       "msbuildProject": "../GameTop.Interface/GameTop.Interface.csproj"
     },
-    "GameTOP.Lib/1.0.0": {
+    "GameTOP.lib/1.0.0": {
       "type": "project",
-      "path": "../GameTOP.Lib/GameTOP.Lib.csproj",
-      "msbuildProject": "../GameTOP.Lib/GameTOP.Lib.csproj"
+      "path": "../GameTOP.Lib/GameTOP.lib.csproj",
+      "msbuildProject": "../GameTOP.Lib/GameTOP.lib.csproj"
     }
   },
   "projectFileDependencyGroups": {
     ".NETCoreApp,Version=v3.0": [
-      "GameTOP.Lib >= 1.0.0",
+      "GameTOP.lib >= 1.0.0",
       "GameTop.Interface >= 1.0.0"
     ]
   },
@@ -74,8 +74,8 @@
             "C:\\Users\\lucas\\OneDrive\\Documentos\\Study\\Fullstack\\CONSOLECORE\\GameTop.Interface\\GameTop.Interface.csproj": {
               "projectPath": "C:\\Users\\lucas\\OneDrive\\Documentos\\Study\\Fullstack\\CONSOLECORE\\GameTop.Interface\\GameTop.Interface.csproj"
             },
-            "C:\\Users\\lucas\\OneDrive\\Documentos\\Study\\Fullstack\\CONSOLECORE\\GameTOP.Lib\\GameTOP.Lib.csproj": {
-              "projectPath": "C:\\Users\\lucas\\OneDrive\\Documentos\\Study\\Fullstack\\CONSOLECORE\\GameTOP.Lib\\GameTOP.Lib.csproj"
+            "C:\\Users\\lucas\\OneDrive\\Documentos\\Study\\Fullstack\\CONSOLECORE\\GameTOP.Lib\\GameTOP.lib.csproj": {
+              "projectPath": "C:\\Users\\lucas\\OneDrive\\Documentos\\Study\\Fullstack\\CONSOLECORE\\GameTOP.Lib\\GameTOP.lib.csproj"
             }
           }
         }
